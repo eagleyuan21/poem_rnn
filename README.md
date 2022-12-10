@@ -2,6 +2,12 @@
 
 ## Done by Haley Matuszak and Eagle Yuan
 
+### Installing the repository
+
+Make sure you have git-lfs installed, since the pretrained model file is large. In order to clone, 
+```
+git lfs clone https://github.com/eagleyuan21/poem_rnn.git
+```
 
 ### Setting up the environment
 
@@ -18,4 +24,4 @@ To train our model, simply run the train.ipynb notebook sequentially. Note that 
 
 generate.ipynb: 
 
-You can simply run the generate notebook to begin generation of poems. The parameters to modify the rhyme scheme and starter words are in the sixth code block. When running for the first time, be sure to run all blocks. When running afterwards, you only have to run from the sixth block and onwards.
+You can simply run the generate notebook to begin generation of poems, which currently uses the pretrained model in this repo. The parameters to modify the rhyme scheme and starter words are in the sixth code block. When running for the first time, be sure to run all blocks. When running afterwards, you only have to run from the sixth block and onwards.
