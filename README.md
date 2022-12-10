@@ -1,4 +1,4 @@
-# Poems RNN
+# Christmas Poems RNN
 
 ## Done by Haley Matuszak (@hmatuszak) and Eagle Yuan
 
@@ -17,6 +17,10 @@ pip install -r requirements.txt
 ```
 
 ### Running the code
+
+poems.txt:
+
+This our dataset combining a wide variety of pooems into this singular file. There contains about 24000 lines worth of Christmas themed poems.
 
 train.ipynb:
 
