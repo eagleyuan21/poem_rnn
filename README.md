@@ -1,6 +1,6 @@
 # Poems RNN
 
-## Done by Haley Matuszak and Eagle Yuan
+## Done by Haley Matuszak (@hmatuszak) and Eagle Yuan
 
 ### Installing the repository
 
